@@ -1,0 +1,4 @@
+-- INSERT INTO PRODUCT (id, name, description,create_at) VALUES (HIBERNATE_SEQUENCE.NEXTVAL,'Product 1', 'Description product 1', TO_DATE ('12-03-2020',' DD-MM-YYYY'));
+-- INSERT INTO PRODUCT (id, name, description,create_at) VALUES (HIBERNATE_SEQUENCE.NEXTVAL,'Product 2', 'Description product 2', TO_DATE ('12-03-2020',' DD-MM-YYYY'));
+-- INSERT INTO PRODUCT (id, name, description,create_at) VALUES (HIBERNATE_SEQUENCE.NEXTVAL,'Product 3', 'Description product 3', TO_DATE ('12-03-2020',' DD-MM-YYYY'));
+-- INSERT INTO PRODUCT (id, name, description,create_at) VALUES (HIBERNATE_SEQUENCE.NEXTVAL,'Product 4', 'Description product 4', TO_DATE ('12-03-2020',' DD-MM-YYYY'));
